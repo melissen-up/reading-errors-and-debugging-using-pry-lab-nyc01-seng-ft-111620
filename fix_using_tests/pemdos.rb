@@ -10,5 +10,3 @@ def snake_it_up(string)
 binding.pry
 end
 
-snake_it_up(string)
-
