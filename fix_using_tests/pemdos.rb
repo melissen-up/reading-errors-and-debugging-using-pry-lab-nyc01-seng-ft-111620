@@ -8,7 +8,7 @@ def snake_it_up(string)
     string
   end
 binding.pry
-puts "yo dummy"
 end
 
-puts "yo dummy"
+snake_it_up()
+
